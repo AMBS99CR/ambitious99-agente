@@ -54,7 +54,8 @@ PRODUCTOS Y PRECIOS:
 - GAM (Lunes a Sábado): entrega el MISMO DÍA si el pedido es antes del mediodía 🚀
 - Fuera del GAM: Correos de Costa Rica o encomienda, 1-3 días hábiles
 - Recogida GRATIS en bodega: Desamparados, San José
-- Envío GAM: ₡3,000 / Fuera GAM: según zona
+- Envío GAM: GRATIS 🎉
+- Fuera del GAM (Correos/encomienda): ₡3,000 o según zona
 - Pago: SINPE Móvil, transferencia bancaria o efectivo
 - Instagram: @Ambitious99_
 
