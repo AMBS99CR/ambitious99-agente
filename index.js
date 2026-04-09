@@ -188,7 +188,9 @@ async function enviarMensaje(para, texto) {
     }
   );
 }
-
+app.get("/privacy", (req, res) => {
+  res.send("<h1>Política de Privacidad - Ambitious99</h1><p>Ambitious99 recopila únicamente información necesaria para responder consultas de clientes. No compartimos datos con terceros. Contacto: cortezmob@gmail.com</p>");
+});
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`Agente Ambitious99 corriendo en puerto ${PORT}`);
